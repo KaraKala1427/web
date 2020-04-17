@@ -10,7 +10,7 @@ def company_list(request):
     return JsonResponse(companies_json, safe=False)
 
 
-def company_show(request, company_id):
+def company_detail(request, company_id):
     try:
         company = Company.objects.get(id=company_id)
     except Company.DoesNotExist as e:

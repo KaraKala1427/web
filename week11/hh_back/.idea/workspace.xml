@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac2be7bc-4a51-4712-b5b9-cd144800dd71" name="Default Changelist" comment="" />
+    <list default="true" id="ac2be7bc-4a51-4712-b5b9-cd144800dd71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/views/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/views/views_cbv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/views/views_crud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/views/views_fbv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/views/views_generic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/views/views_w12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week10/demo/demo/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/views/views_w11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hh_back/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/hh_back/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +32,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1ZvqQJ7aK3nriuNbZfy6SANUxqp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,8 +44,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yernar\PycharmProjects\web\week11\hh_back\api\views" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -39,6 +68,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Inspections" timestamp="1587069109965">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1587069109965" />
     <state x="271" y="79" key="DBNavigator.DatasetFilterDialog" timestamp="1585734899088">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -51,20 +84,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="471" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585734832977" />
-    <state x="192" y="6" key="SettingsEditor" timestamp="1585729955258">
+    <state x="192" y="6" key="SettingsEditor" timestamp="1587088908176">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="192" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585729955258" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/hh_back/urls.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="192" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587088908176" />
+    <state x="387" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587063480413">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587063480413" />
   </component>
 </project>
