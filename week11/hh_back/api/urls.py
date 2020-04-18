@@ -2,10 +2,10 @@ from django.urls import path
 
 # from api.views import company_list, company_detail, company_detail, vacancy_list, vacancy_detail, company_vacancies
 
-# from api.views.views_cbv import CompanyListAPIView, CompanyDetailAPIView, CompanyWithVacancyListAPIView, VacancyListAPIView, VacancyDetailAPIView
-from api.views.views_cbv import CompanyWithVacancyListAPIView
-from api.views.views_generic import CompanyListAPIView, CompanyDetailAPIView, \
-    VacancyListAPIView, VacancyDetailAPIView
+from api.views.views_cbv import CompanyListAPIView, CompanyDetailAPIView, CompanyWithVacancyListAPIView, VacancyListAPIView, VacancyDetailAPIView
+# from api.views.views_cbv import CompanyWithVacancyListAPIView
+# from api.views.views_generic import CompanyListAPIView, CompanyDetailAPIView, \
+#     VacancyListAPIView, VacancyDetailAPIView
 
 from rest_framework_jwt.views import obtain_jwt_token
 

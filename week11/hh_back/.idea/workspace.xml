@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac2be7bc-4a51-4712-b5b9-cd144800dd71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/views/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/views/views_cbv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/views/views_crud.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/views/views_fbv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/views/views_generic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/views/views_w12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week10/demo/demo/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/views/views_w11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hh_back/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/hh_back/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,10 +69,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="471" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585734832977" />
-    <state x="192" y="6" key="SettingsEditor" timestamp="1587088908176">
+    <state x="192" y="6" key="SettingsEditor" timestamp="1587111531000">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="192" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587088908176" />
+    <state x="192" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587111531000" />
     <state x="387" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587063480413">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
